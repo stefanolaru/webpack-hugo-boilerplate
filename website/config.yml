@@ -1,0 +1,5 @@
+baseURL: /
+languageCode: en-us
+title: Credito
+disableHugoGeneratorInject: true,
+disableKinds: ["RSS", "taxonomy", "taxonomyTerm", "sitemap", "robotsTXT", "404"]
