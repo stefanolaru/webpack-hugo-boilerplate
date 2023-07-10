@@ -50,6 +50,6 @@
         "optimize-css-assets-webpack-plugin": "^5.0.3",
         "svg-inline-loader": "^0.8.0",
         "terser-webpack-plugin": "^2.2.0",
-        "webpack-cli": "^3.2.0"
+        "webpack-cli": "^3.3.12"
     }
 }
